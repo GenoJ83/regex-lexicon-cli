@@ -1,0 +1,1 @@
+"""Prebuilt pattern catalog."""
