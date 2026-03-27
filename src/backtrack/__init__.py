@@ -1,0 +1,1 @@
+"""Catastrophic backtracking vulnerability detector."""
