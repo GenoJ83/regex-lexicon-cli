@@ -1,0 +1,1 @@
+"""Named group extractor."""
