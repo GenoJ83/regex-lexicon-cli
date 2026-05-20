@@ -1,0 +1,1 @@
+"""Redundant character class optimizer."""
